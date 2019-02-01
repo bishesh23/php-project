@@ -1,0 +1,44 @@
+.header{
+    padding-left: 32%;
+    padding-top:5%;
+    font-size: x-large;
+    font-family: sans-serif;
+    color: lightskyblue;
+}
+
+.former{
+    padding-left: 40%;
+    padding-top:2%;
+}
+
+#box{
+    border-radius: 20%;
+    padding: 20px;
+    background-color: darkred;
+    font-family: "fantasy";
+    font-size: larger;
+
+}
+
+#register{
+    padding: 10px;
+    alignment: center;
+    border-radius: 10%;
+    cursor: pointer;
+    background-color: green;
+    font-family:"tahoma";
+    color: darkred;
+    margin-left: 100px;
+}
+
+.radio{
+    font-family: "serif";
+    font-size:x-large;
+    color: ghostwhite;
+}
+
+.login{
+    color: darkred;
+    margin-left: 100%;
+}
+

@@ -1,0 +1,24 @@
+.header{
+    margin-left: 10%;
+    color: blue;
+}
+
+.former{
+    padding-left: 290px;
+    padding-top: 20px;
+
+}
+p{
+    color: #4e4dff;
+}
+
+#register{
+    padding: 10px;
+    alignment: center;
+    border-radius: 10%;
+    cursor: pointer;
+    background-color: green;
+    font-family:"tahoma";
+    color: darkred;
+    margin-left: 100px;
+}

@@ -1,0 +1,24 @@
+#but{
+    float: right;
+    font-size: x-large;
+    font-family: "sans-serif";
+    background-color: lightslategray;
+
+}
+
+#box{
+    border-radius: 10%;
+    padding: 20px;
+    background-color: lightcyan;
+    font-family: "fantasy";
+    font-size: larger;
+    color: darkblue;
+
+}
+
+#buton{
+    font-size: x-large;
+    font-family: "sans-serif";
+    background-color: lightslategray;
+
+}
