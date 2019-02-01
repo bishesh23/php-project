@@ -1,0 +1,81 @@
+h1{
+    color: indigo;
+}
+
+form{
+    padding-left: 490px;
+    padding-top: 20px;
+
+}
+input[type=text], select {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 150px;
+    box-sizing: border-box;
+    color: darkblue;
+    font-family:cursive ;
+}
+
+input[type=password], select {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 150px;
+    box-sizing: border-box;
+    color: darkblue;
+    font-family:cursive ;
+}
+input[type=email], select {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 150px;
+    box-sizing: border-box;
+    color: darkblue;
+    font-family:cursive ;
+}
+input[type=date], select {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 150px;
+    box-sizing: border-box;
+    font-family:cursive ;
+}
+input[type=submit], select {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 150px;
+    box-sizing: border-box;
+    font-family:cursive ;
+    background-color: lightgreen;
+    color: midnightblue;
+    border: 2px solid #4CAF50;
+    font-family:Tahoma;
+    font-size: large;
+    cursor: pointer
+}
+
+::placeholder {
+    color: red;
+    opacity: 1;
+}
+
+.reg{
+    color: darkred;
+    margin-left: 30%;
+}
+
+
